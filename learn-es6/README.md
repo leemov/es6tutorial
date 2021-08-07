@@ -60,6 +60,6 @@ const :
 - use let if new value of declaration is expected, use const if new value of declaration is not expected
 
 this :
-- when we create an object and call this inside it's method, this is refering to the object
+- when we create an object and call this inside it's method, this is refering to the object 
 
 
